@@ -1,0 +1,8 @@
+sutdbank/DbCreator.class
+com/lti/bank/webapp/servlet/DefaultServletTest.class
+com/lti/bank/webapp/model/UserRoleTest.class
+com/lti/bank/webapp/model/AbstractIdEntityTest.class
+com/lti/bank/webapp/model/ClientAccountTest.class
+com/lti/bank/webapp/commons/HelperTest.class
+com/lti/bank/webapp/commons/StringUtilsTest.class
+com/lti/bank/webapp/model/TransactionStatusTest.class
